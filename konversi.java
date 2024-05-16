@@ -16,7 +16,7 @@ public class konversi {
         
     }
     public static double c_to_r(double celcius){
-        double reaumur =  4/5 * celcius;
+        double reaumur =  celcius * 4/5;
         return reaumur;
         
     }
@@ -31,7 +31,7 @@ public class konversi {
         return kelvin;
     }
     public static double f_to_r(double fahrenheit){
-        double reaumur = 4/9 * (fahrenheit-32);
+        double reaumur = (fahrenheit-32) * 4/9;
         return reaumur;
     }
     
@@ -45,7 +45,7 @@ public class konversi {
         return fahrenheit;
     }
     public static double k_to_r(double kelvin){
-        double reaumur = 4/5 * (kelvin-273);
+        double reaumur = (kelvin-273) * 4/5 ;
         return reaumur;
     }
     //Class Reaumur
