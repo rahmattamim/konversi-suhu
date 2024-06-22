@@ -40,3 +40,6 @@ K : Kelvin
 
 
 Terima Kasih 
+
+
+![Alt text](https://i.pinimg.com/originals/b4/db/f5/b4dbf50472475d569d74ced9f645eed0.jpg)
